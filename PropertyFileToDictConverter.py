@@ -1,0 +1,3 @@
+
+class PropertyFileToDictConverter:
+  pass
